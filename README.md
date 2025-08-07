@@ -1,0 +1,2 @@
+# RamoneduardoLeonOrtiz-Herramientas-Digitales-Offline-para-la-escuela-primaria
+Un pequeño sitio ideal para descargar y ver herramientas que ayudan en el espacio escolar de los estudiantes de zonas sin cobertura de datos, estudiantes de las sedes rurales de Colombia,  en los municipios de Guacamayo, Contratación, Simacota, y otros municipios circunvencinos. Desde allá arriba en la Loma, vereda de El Guacamayo en Santander.
